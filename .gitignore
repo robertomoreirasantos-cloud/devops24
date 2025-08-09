@@ -1,0 +1,10 @@
+# Depndencias
+node_modules/
+
+#variveis de ambiente
+.env
+.env.*
+
+#outros
+Thumbs.db
+.Trashes
